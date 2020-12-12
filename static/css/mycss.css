@@ -1,0 +1,19 @@
+.dd{
+    width: auto !important;
+}
+.profile-block a:hover{
+    text-decoration: none !important;
+    background:#1b2f6d; 
+    color:#effafb;
+    -webkit-transition: all .35s ease;
+    -moz-transition: all .35s ease;
+    -ms-transition: all .35s ease;
+    -o-transition: all .35s ease;
+}
+.mywidth100{
+    width: 100%;
+}
+.form-group span{
+    color: red;
+    font-weight: 600;
+}
